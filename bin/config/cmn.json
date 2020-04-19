@@ -1,0 +1,10 @@
+{
+  "dbuser": "wx",
+  "dbpwd": "gvsrag3234sf121da2",
+  "dbaddr": "localhost:3306",
+  "dbname": "wxgzh_test",
+  "port" : "8082",
+  "appid" : "wxd975e986462f1f99",
+  "appsecret" : "32_T3ruocpOk1F0JUAk9v-ByzoZP4Rk6N7LN1NMm9tkMe_Gyz8LgLCIMPcH4M11QMbFLhoOOTRwQD65XfeYp9oH5ZE8_XDPD-tQI8LWpkqPUBRE_CKmPr-a-LbpZ7_WGJ5-v3dJ0Mfasi4hiu-TSRAeAAACBK",
+  "logdir" : "log"
+}
